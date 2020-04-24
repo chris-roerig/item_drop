@@ -1,3 +1,11 @@
+** THIS IS A FORK **
+
+Changes include:
+
+* Adjusted default magnet_radius from -1 to 1.5 which gives similar gameplay to Minecraft
+
+---
+
 # item_drop
 By [PilzAdam](https://github.com/PilzAdam),
 [texmex](https://github.com/tacotexmex/), [hybriddog](https://github.com/hybriddog/).
